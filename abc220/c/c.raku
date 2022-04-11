@@ -1,1 +1,1 @@
-$/=lines;$_=$2%($!=[+] my@A=$1.words);say +$2 div $!*@A-+^@A.first(0>($_-=*),:k)
+$/=lines;$_=$2%($!=[+] my@A=$1.words);say 1+@A*($2/$!+|0)+first 0>($_-=*),@A,:k
