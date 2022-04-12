@@ -1,1 +1,1 @@
-$/=lines;[+](my@A=$1.words)~~say +$2 div $_*@A+[([\+] @A)...*>$2%$_]
+$/=lines;$_=$2%[+](my@A=$1.words);say +$2 div @A.sum*@A+(@A...0>($_-=*))
